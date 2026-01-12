@@ -1,0 +1,40 @@
+img.displayed {display: block; margin-left: auto; margin-right: auto}
+div.ex {width:600px; padding:50px; border:0px solid black; margin-left: auto; margin-right: auto}
+p.body {font-size:150%; text-indent:50px}
+a {text-decoration:none; color:white}
+body {color: white; text-align: left; font-family: 'Poor Richard', Times, serif; background-color: #000000}
+p.mark {font-size:75%; text-align: center; position:relative; top:15px}
+a._ {text-decoration:underline;}
+img {border:0px solid black;}
+
+#navlist{position:relative;}
+#navlist li{margin:0; padding:0; list-style:none; position:absolute; top:0;}
+#navlist li, #navlist a{height:100px; width:100px; display:block;}
+
+#jewelry{left:0px;}
+#jewelry{background:url('buttons.jpg') 0 0;}
+#jewelry a:hover{background: url('buttons.jpg') 0px -100px;}
+
+#electricity{left:100px;}
+#electricity{background:url('buttons.jpg') -100px 0;}
+#electricity a:hover{background: url('buttons.jpg') -100px -100px;}
+
+#wood{left:200px;}
+#wood{background:url('buttons.jpg') -200px 0;}
+#wood a:hover{background: url('buttons.jpg') -200px -100px;}
+
+#art{left:300px;}
+#art{background:url('buttons.jpg') -300px 0;}
+#art a:hover{background: url('buttons.jpg') -300px -100px;}
+
+#weapons{left:400px;}
+#weapons{background:url('buttons.jpg') -400px 0;}
+#weapons a:hover{background: url('buttons.jpg') -400px -100px;}
+
+#about{left:500px;}
+#about{background:url('buttons.jpg') -500px 0;}
+#about a:hover{background: url('buttons.jpg') -500px -100px;}
+
+#blog{left:600px;}
+#blog{background:url('buttons.jpg') -600px 0;}
+#blog a:hover{background: url('buttons.jpg') -600px -100px;}
